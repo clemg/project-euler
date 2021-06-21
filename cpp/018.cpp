@@ -18,7 +18,7 @@ typedef vector<vector<int>> tab2di;
 #define RFOR(i,a,b) for (int i=a; i>=b; i--)
 #define RFORC(i,a,b,c) for (int i=a; i>=b; i-=c)
 #define FORA(i,v) for (auto i: v)
-#define SEP FOR(i,0,60) cout << "#"; cout << "\n"
+#define SEP FOR(i,0,60) cout << '#'; cout << "\n"
 
 #define SIZE 15
 
