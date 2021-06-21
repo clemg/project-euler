@@ -12,7 +12,7 @@ typedef vector<vector<int>> tab2di;
 #define S second
 #define PB push_back
 #define MP make_pair
-#define PI acos(-1);
+#define PI acos(-1)
 #define FOR(i,a,b) for (int i=a; i<b; i++)
 #define CFOR(i,a,b,c) for (int i=a; i<b; i+=c)
 #define RFOR(i,a,b) for (int i=a; i>=b; i--)
